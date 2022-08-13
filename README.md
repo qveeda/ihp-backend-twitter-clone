@@ -4,7 +4,7 @@
 
 ## Usage
 
-On first start install the npm dependencies:
+On first -d start install the npm dependencies:
 
 ```bash
 npm install
